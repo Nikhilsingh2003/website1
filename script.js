@@ -1,5 +1,4 @@
 
-  // Function to handle smooth scrolling
   function smoothScroll(target) {
     const element = document.querySelector(target);
     const targetPosition = element.offsetTop;
